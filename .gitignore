@@ -1,0 +1,28 @@
+*.pdf
+*.csv
+*.npz
+*.jpg
+*.pkl
+=======
+# Lines starting with '#' are considered comments.
+# Ignore (generated) files
+*.slo
+*.lo
+*.o
+*.cuo
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.pyc
+*.pyd
+*.pyo
+*.npy
+*.pickle
+*.out
+core*
+*.iml
+.DS_Store
+.idea
+*.xml
